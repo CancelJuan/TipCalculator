@@ -28,7 +28,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had a great experience I had a lot of support from my peers so I could understand the material. The video and turorial were also a great help. I don't own a mac computer so it was pretty hard for me to do the work and the hardest part in my opinion of the things I worked on the application was programming the save setting in the application.
 
 ## License
 
